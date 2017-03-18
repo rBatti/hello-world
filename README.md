@@ -1,4 +1,4 @@
 # hello-world
 New repository
 
-Breakfast tacos are great, but lunch tacos are better
+I enjoy breakfast tacos, but prefer lunch tacos
